@@ -3,7 +3,7 @@
 // ============================================
 
 const CONFIG = {
-    // Your Valentine's name that will appear in the title
+    // Your Valentine's name that will appear in the title!
     // Example: "Jade", "Sarah", "Mike"
     valentineName: "Maricella",
 
